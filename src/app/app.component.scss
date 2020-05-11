@@ -1,0 +1,9 @@
+.pedido{
+  &:hover{
+    .detalles{
+      margin-left: -40px;
+      background-color:red !important;}
+  }
+
+}
+
